@@ -1,5 +1,6 @@
 # miniproject11
-url : http://yoojunwoong.pythonanywhere.com/
+# url : http://yoojunwoong.pythonanywhere.com/
+
 ![제목 없음](https://user-images.githubusercontent.com/85270844/127461453-4f13741f-0419-418c-969f-8f7c7302fc16.png)
 ### 지역에 따른 수질 및 건강의 지표
 ### 전처리 후 (row drop, 3가지 방법중 가장 높은 유사성을 가질 수 있었음.)
